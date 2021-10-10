@@ -1,0 +1,7 @@
+C:\Users\william.malaquias\Desktop\Meus Projetos\Alura\Orientacao a Objetos\ByteBank\07-ByteBank\bin\Debug\07-ByteBank.exe.config
+C:\Users\william.malaquias\Desktop\Meus Projetos\Alura\Orientacao a Objetos\ByteBank\07-ByteBank\bin\Debug\07-ByteBank.exe
+C:\Users\william.malaquias\Desktop\Meus Projetos\Alura\Orientacao a Objetos\ByteBank\07-ByteBank\bin\Debug\07-ByteBank.pdb
+C:\Users\william.malaquias\Desktop\Meus Projetos\Alura\Orientacao a Objetos\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.csprojAssemblyReference.cache
+C:\Users\william.malaquias\Desktop\Meus Projetos\Alura\Orientacao a Objetos\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\william.malaquias\Desktop\Meus Projetos\Alura\Orientacao a Objetos\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.exe
+C:\Users\william.malaquias\Desktop\Meus Projetos\Alura\Orientacao a Objetos\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.pdb
